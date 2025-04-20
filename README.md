@@ -1,7 +1,7 @@
 # Hyperlocal Store
 
 ## About
-    This is the backend server for an e-commerce app that supports cart operations, placing orders, and managing products. It's built using Node.js, Express, and MongoDB.
+This is the backend server for an e-commerce app that supports cart operations, placing orders, and managing products. It's built using Node.js, Express, and MongoDB.
 
 ## Setup Instructions
 
